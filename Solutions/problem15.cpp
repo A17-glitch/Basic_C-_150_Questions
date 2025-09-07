@@ -1,4 +1,7 @@
 // problem 15
+// problem type : Basic
+// question : Check if a number is Armstrong
+
 #include <iostream>
 #include <math.h>
 using namespace std;

@@ -1,4 +1,6 @@
 // problem 18
+// problem type : Basic
+// question : Check if a number is part of the Fibonacci series
 
 /*
 Note: A number X is a Fibonacci number if and only if one of these conditions is

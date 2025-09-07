@@ -1,4 +1,7 @@
 // problem 19
+// problem type : Basic
+// question : Calculate simple interest
+
 #include <iostream>
 #include <math.h>
 #include <stdio.h>

@@ -1,4 +1,7 @@
 // problem 13
+// problem type : Basic
+// question : Find the greatest common divisor (GCD)
+
 #include <iostream>
 using namespace std;
 int main() {

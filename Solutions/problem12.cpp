@@ -1,4 +1,7 @@
 // problem 12
+// problem type : Basic
+// question : Check if a number is prime
+
 #include <iostream>
 using namespace std;
 int main() {

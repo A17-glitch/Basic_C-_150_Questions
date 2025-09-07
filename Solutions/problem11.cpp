@@ -1,4 +1,7 @@
 // problem 11
+// problem type : Basic
+// question : Check if a number is a palindrome
+
 #include <iostream>
 using namespace std;
 int main() {

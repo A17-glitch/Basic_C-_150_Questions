@@ -1,4 +1,6 @@
 // problem 16
+// problem type : Basic
+// question : Find the factorial of a number
 #include <iostream>
 using namespace std;
 int main() {

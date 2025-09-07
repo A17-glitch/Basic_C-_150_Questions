@@ -1,4 +1,7 @@
 // problem 20
+// problem type : Basic
+// question : Calculate compound interest
+
 #include <iostream>
 #include <math.h>
 #include <stdio.h>

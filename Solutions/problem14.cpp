@@ -1,4 +1,7 @@
 // problem 14
+// problem type : Basic
+// question : Find the least common multiple (LCM)
+
 #include <iostream>
 using namespace std;
 int main() {
