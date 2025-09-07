@@ -1,4 +1,7 @@
 // problem 04
+// problem type : Basic
+// question : Check even or odd
+
 #include <iostream>
 using namespace std;
 int main() {

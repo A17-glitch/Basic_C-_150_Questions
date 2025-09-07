@@ -1,4 +1,7 @@
 // problem 05
+// problem type : Basic
+// question : Find the maximum of two numbers
+
 #include <iostream>
 using namespace std;
 int main() {

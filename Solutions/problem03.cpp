@@ -1,4 +1,7 @@
 // problem 03
+// problem type : Basic
+// question : Add two numbers
+
 #include <iostream>
 using namespace std;
 int main() {

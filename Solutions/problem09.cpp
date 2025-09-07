@@ -1,4 +1,7 @@
 // problem 09
+// problem type : Basic
+// question : Find the sum of digits of a number
+
 #include <iostream>
 using namespace std;
 int main() {

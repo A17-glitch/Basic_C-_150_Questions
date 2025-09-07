@@ -1,4 +1,7 @@
 // problem 06
+// problem type : Basic
+// question : Find the minimum of two numbers
+
 #include <iostream>
 using namespace std;
 int main() {

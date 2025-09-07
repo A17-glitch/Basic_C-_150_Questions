@@ -1,4 +1,7 @@
 // problem 07
+// problem type : Basic
+// question : Swap two numbers using a third variable
+
 #include <iostream>
 using namespace std;
 int main() {

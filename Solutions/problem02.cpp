@@ -1,4 +1,7 @@
 // problem 02
+// problem type : Basic
+// question : Input and output two numbers
+
 #include <iostream>
 using namespace std;
 int main() {
